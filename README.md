@@ -1,4 +1,4 @@
-( this was a Collaboration Project I am  now the only one maintaining the code)
+
 
 ## What is phpbin?
 
